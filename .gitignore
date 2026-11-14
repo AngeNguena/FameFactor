@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# FameFactor datasets
+data/raw/
+data/processed/
+*.parquet
+
+# Trained machine learning models
+models/
+*.pkl
+*.joblibs
